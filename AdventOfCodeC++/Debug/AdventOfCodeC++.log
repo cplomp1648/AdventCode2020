@@ -1,0 +1,5 @@
+﻿  AdventOfCodeC++.cpp
+C:\Users\olori\source\repos\Advent of Code\Individual_solutions\Day_1.cpp(21,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olori\source\repos\Advent of Code\Individual_solutions\Day_1.cpp(22,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olori\source\repos\Advent of Code\Individual_solutions\Day_1.cpp(23,39): warning C4018: '<': signed/unsigned mismatch
+  AdventOfCodeC++.vcxproj -> C:\Users\olori\source\repos\Advent of Code\AdventOfCodeC++\Debug\AdventOfCodeC++.exe

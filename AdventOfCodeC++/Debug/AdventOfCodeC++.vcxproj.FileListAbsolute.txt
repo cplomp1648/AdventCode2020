@@ -1,0 +1,2 @@
+C:\Users\olori\source\repos\Advent of Code\AdventOfCodeC++\Debug\AdventOfCodeC++.exe
+C:\Users\olori\source\repos\Advent of Code\AdventOfCodeC++\Debug\AdventOfCodeC++.pdb
